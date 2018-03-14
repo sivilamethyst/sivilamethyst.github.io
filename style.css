@@ -1,0 +1,37 @@
+.titleband {
+  font-size: 6em ;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.customfont {
+  font-size: 8em ;
+  font-weight: 400;
+  font-family: 'Annie Use Your Telescope', cursive;
+  margin: 0;
+  color: #FFFFFF;
+  background: #fbf8ec;
+  background: -moz-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+  background: -webkit-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+  background: -ms-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+  background: linear-gradient(to bottom, #d6ffdf 35%, #b0cedc 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+ .presentation-subtitle {
+   font-size: 2.5em ;
+   font-family: 'Snippet', sans-serif;
+   background: -moz-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+   background: -webkit-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+   background: -ms-linear-gradient(top, #FFFFFF 35%, #4e6773 100%);
+   background: linear-gradient(to bottom, #dbd6ca 35%, #d2d2d2 100%);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+ }
+
+ .btn {
+    padding: 0.1rem 17px;
+ }
+
+ http://hddesktopwallpapers.in/wp-content/uploads/2015/09/nature-A4-1920x1080.jpg
